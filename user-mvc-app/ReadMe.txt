@@ -12,3 +12,20 @@ Create 3 packages in src/main/java
 - org.jsp.usermvcapp.dao
 - org.jsp.usermvcapp.controller
 
+Create the Following entity class
+User(id, name, phone, email and password)
+
+Perform the Following tasks
+1. Save User
+
+2. Update User
+
+3. Find User BY ID
+
+4. Delete User
+
+5. Verify User by Id and password
+
+6. Verify User by email and password
+
+7. Verify User by phone and password
