@@ -1,1 +1,1 @@
-Basic Spring Framework Project using CRUD Operations
+Basic Spring Framework Projects using CRUD Operations
